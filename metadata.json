@@ -1,0 +1,10 @@
+{
+  "name": "Hhgggg",
+  "description": "Flirty, charming AI assistant with Mahabharat knowledge and Hindi/English/Hinglish natural voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
